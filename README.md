@@ -27,9 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalmukul-cse&show_icons=true&locale=en&layout=compact" alt="bansalmukul-cse" /></p>
 
-<p>&nbsp;<img align="center"  img alt ="dark" src="https://github-readme-stats.vercel.app/api?username=bansalmukul-cse&show_icons=true&locale=en" alt="bansalmukul-cse" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=bansalmukul-cse&show_icons=true&locale=en" alt="bansalmukul-cse" /></p>
 
-<p><img align="center" img alt ="dark" src="https://github-readme-streak-stats.herokuapp.com/?user=bansalmukul-cse&" alt="bansalmukul-cse" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bansalmukul-cse&" alt="bansalmukul-cse" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalmukul-cse&label=Profile%20views&color=0e75b6&style=flat" alt="bansalmukul-cse" /> </p>
