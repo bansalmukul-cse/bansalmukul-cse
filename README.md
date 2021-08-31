@@ -37,4 +37,8 @@
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalmukul-cse&theme=dark&show_icons=true&locale=en&layout=compact" alt="bansalmukul-cse" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalmukul-cse&label=Profile%20views&color=0e75b6&style=flat" alt="bansalmukul-cse" /> </p>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bansalmukul-cse">
+</a>
+<a href="https://github.com/bansalmukul-cse?tab=followers"><img src="https://img.shields.io/github/followers/bansalmukul-cse?label=Followers&style=social" alt="GitHub Badge"></a>
