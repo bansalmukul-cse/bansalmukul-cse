@@ -36,16 +36,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bansalmukul-cse&theme=dark)](https://git.io/streak-stats)
 
 <br/>
-<br/>
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalmukul-cse&theme=dark&show_icons=true&locale=en&layout=compact" alt="bansalmukul-cse" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
