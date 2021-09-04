@@ -34,7 +34,8 @@
    &nbsp;  &nbsp;
 </p>
 &nbsp;
-<h3 align="left">🚀Languages and Tools:</h3>
+
+  ##  🚀Languages and Tools:
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
    &nbsp;  &nbsp;
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -72,6 +73,8 @@
   <a href="https://github.com/bansalmukul-cse/Pets-App"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=bansalmukul-cse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=Pets-App" alt="Pets-App"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
   <a href="https://github.com/bansalmukul-cse/Coffee-Ordering-App"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=bansalmukul-cse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=Coffee-Ordering-App" alt="Coffee-Ordering-App"></a>
+      &nbsp;  &nbsp;  &nbsp;  &nbsp;
+  <a href="https://github.com/bansalmukul-cse/IoT-for-Industries-lab"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=bansalmukul-cse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=IoT-for-Industries-lab" alt="IoT-for-Industries-lab"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
   </p>
 &nbsp;  &nbsp;
