@@ -74,7 +74,7 @@
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
   <a href="https://github.com/bansalmukul-cse/Coffee-Ordering-App"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=bansalmukul-cse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=Coffee-Ordering-App" alt="Coffee-Ordering-App"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  <a href="https://github.com/bansalmukul-cse/IoT-for-Industries-lab"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=bansalmukul-cse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=IoT-for-Industries-lab" alt="IoT-for-Industries-lab"></a>
+  <a href="https://github.com/bansalmukul-cse/IoT-for-Industries"><img width="382" src="https://github-readme-stats.vercel.app/api/pin/?username=bansalmukul-cse&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false&repo=IoT-for-Industries" alt="IoT-for-Industries"></a>
       &nbsp;  &nbsp;  &nbsp;  &nbsp;
   </p>
 &nbsp;  &nbsp;
