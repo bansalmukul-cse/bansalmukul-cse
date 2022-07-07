@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data structure And Algorithms**
 
-- 👯 I’m looking to collaborate on **IOT , Android developer  and software developer roles**
+- 👯 I’m looking to collaborate on **IOT , Android Developer  and software Developer Roles**
 
 - 💬 Ask me about **Programming and Technical Stuffs**
 
