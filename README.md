@@ -28,8 +28,7 @@
    &nbsp;  &nbsp;
 <a href="https://www.hackerrank.com/bansalmukul747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bansalmukul747" height="30" width="40" /></a>
    &nbsp;  &nbsp;
-<a href="https://www.leetcode.com/bansalmukul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bansalmukul" height="30" width="40" /></a>
-   &nbsp;  &nbsp;
+
 </p>
 &nbsp;
 
