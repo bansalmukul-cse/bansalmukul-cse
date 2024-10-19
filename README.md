@@ -51,8 +51,6 @@
   &nbsp;  &nbsp;
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    &nbsp;  &nbsp;
-  <a href="https://www.aws.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/aws-original.svg" alt="aws" width="40" height="40"/> </a>
-   &nbsp;  &nbsp;
 </p>
 
 &nbsp;  &nbsp;
