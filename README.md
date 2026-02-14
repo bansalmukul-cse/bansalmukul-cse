@@ -81,15 +81,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansalmukul-cse&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bansalmukul-cse&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalmukul-cse&layout=compact&theme=tokyonight" />
 </p>
 
 ---
