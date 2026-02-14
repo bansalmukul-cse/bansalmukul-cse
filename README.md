@@ -54,8 +54,7 @@
 
 ---
 
-## 📌 Featured DevOps Projects (Build These & Add Later)
-
+## 📌 Featured DevOps Projects 
 ### 🚀 Kubernetes Microservices Deployment
 - EKS Cluster Setup
 - Helm Chart Deployment
